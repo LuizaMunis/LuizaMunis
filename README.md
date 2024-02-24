@@ -1,5 +1,5 @@
 ### print("Hi, I'm Umpa!")
 
 <a href="https://github.com/LuizaMunis/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizaMunis&layout=donutchart&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizaMunis&layout=donut-chart&langs_count=8&card_width=320" />
 </a>
