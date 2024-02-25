@@ -2,7 +2,7 @@
 
 <p> Bem-vindo ao meu perfil do GitHub!</p>
 <p>Sou estudante de Engenharia de Software apaixonada por tecnologia e inovação.</p>
- <img align= "center" alt="gif" height="300" src="https://cdna.artstation.com/p/assets/images/images/037/786/530/original/camille-unknown-hk.gif?1621327281"/>
+ <img align= "center" alt="gif"  src="https://cdna.artstation.com/p/assets/images/images/037/786/530/original/camille-unknown-hk.gif?1621327281"/>
 
 <div style="display: inline_block;"><br>
   <h2>Tecnologias em estudo.</h2> 
@@ -15,8 +15,8 @@
 
 <div ><br>
   <a href="https://github.com/LuizaMunis/convoychat">
-  <img height= 200 align= "center" src="https://github-readme-stats.vercel.app/api?username=LuizaMunis&rank_icon=github&count_private=true&show_icons=true&theme=radical"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizaMunis&layout=donut&langs_count=8&card_width=320_icons=true&theme=radical#gh-dark-mode-only"/>
+  <img height= 180 align= "center" src="https://github-readme-stats.vercel.app/api?username=LuizaMunis&rank_icon=github&count_private=true&show_icons=true&theme=radical"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizaMunis&layout=donut&langs_count=8&card_width=320_icons=true&theme=radical#gh-dark-mode-only"/>
 </div>
 <hr>
 
