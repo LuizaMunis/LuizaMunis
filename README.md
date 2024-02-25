@@ -2,7 +2,7 @@
 
 <div >
   <a href="https://github.com/LuizaMunis/convoychat">
-  <img height= 200 align= "center" src="https://github-readme-stats.vercel.app/api?username=LuizaMunis&show_icons=true&theme=radical&repo=github-readme-stats"/>
+  <img height= 200 align= "center" src="https://github-readme-stats.vercel.app/api?username=LuizaMunis&rank_icon=github&count_private=true&show_icons=true&theme=radical"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizaMunis&layout=donut&langs_count=8&card_width=320_icons=true&theme=radical#gh-dark-mode-only"/>
 </div>
 
@@ -16,6 +16,12 @@
 <div> <br>
   <a href="www.linkedin.com/in/luiza-munis-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
