@@ -2,7 +2,7 @@
 
 <p> Bem-vindo ao meu perfil do GitHub!</p>
 <p>Sou estudante de Engenharia de Software apaixonada por tecnologia e inovação.</p>
- <img height= 200 align= "center" src="https://tenor.com/pt-BR/view/cat-kiss-gif-26499778"/>
+ <img height= 200 align= "center" src="https://tenor.com/pt-BR/view/cat-kiss-gif-26499778?utm_source=share-button&utm_medium=Social&utm_content=pinterest"/>
 
 <div style="display: inline_block;"><br>
   <h2>Tecnologias em estudo.</h2> 
