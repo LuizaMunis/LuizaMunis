@@ -25,9 +25,10 @@
 </picture>
 <hr>
 
-<div text-align: center> <br>
-  <a href="www.linkedin.com/in/luiza-munis-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href="https://instagram.com/luh.munis" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a href = "mailto:luizamunisnascimento@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<div style="text-align: center;">
+  <br>
+  <a href="www.linkedin.com/in/luiza-munis-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/luh.munis" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:luizamunisnascimento@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
