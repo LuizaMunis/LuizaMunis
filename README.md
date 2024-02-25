@@ -1,4 +1,4 @@
-### print("Hi, I'm Umpa!")🤖
+<h1> print("Hi, I'm Umpa!")🤖</h1>
 
 <p> Bem-vindo ao meu perfil do GitHub!</p>
 <p>Sou estudante de Engenharia de Software apaixonada por tecnologia e inovação.</p>
@@ -25,7 +25,7 @@
 </picture>
 <hr>
 
-<div style="alien: center"> <br>
+<div text-align: center> <br>
   <a href="www.linkedin.com/in/luiza-munis-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href="https://instagram.com/luh.munis" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href = "mailto:luizamunisnascimento@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
