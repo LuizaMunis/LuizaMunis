@@ -2,6 +2,7 @@
 
 <p> Bem-vindo ao meu perfil do GitHub!</p>
 <p>Sou estudante de Engenharia de Software apaixonada por tecnologia e inovação.</p>
+<div class="tenor-gif-embed" data-postid="26499778" data-share-method="host" data-aspect-ratio="1.90476" data-width="100%"><a href="https://tenor.com/view/cat-kiss-gif-26499778">Cat Kiss GIF</a>from <a href="https://tenor.com/search/cat+kiss-gifs">Cat Kiss GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div style="display: inline_block;"><br>
   <h2>Tecnologias em estudo.</h2> 
