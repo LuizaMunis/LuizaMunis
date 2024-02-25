@@ -2,7 +2,7 @@
 
 <p> Bem-vindo ao meu perfil do GitHub!</p>
 <p>Sou estudante de Engenharia de Software apaixonada por tecnologia e inovação. Comprometida em escrever código limpo e eficiente. Buscando constantemente aprender e colaborar.</p>
- <img align= "center" alt="gif" height="250" width="700" src="https://www.artstation.com/artwork/q9Pgny"/>
+ <img align= "center" alt="gif" height="250" width="700" src="https://cdnb.artstation.com/p/assets/images/images/033/213/079/original/camille-unknown-room-02.gif?1608765293"/>
 
 <div style="display: inline_block;"><br>
   <h2>Tecnologias em estudo.</h2> 
