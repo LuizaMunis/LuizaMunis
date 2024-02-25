@@ -2,7 +2,7 @@
 
 <div >
   <a href="https://github.com/LuizaMunis/convoychat">
-  <img height= 200 align= "center" src="https://github-readme-stats.vercel.app/api?username=LuizaMunis&show_icons=true&theme=radical"/>
+  <img height= 200 align= "center" src="https://github-readme-stats.vercel.app/api?username=LuizaMunis&show_icons=true&theme=radical&repo=github-readme-stats"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizaMunis&layout=donut&langs_count=8&card_width=320_icons=true&theme=radical#gh-dark-mode-only"/>
 </div>
 
