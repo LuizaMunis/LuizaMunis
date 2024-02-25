@@ -1,5 +1,9 @@
 ### print("Hi, I'm Umpa!")
 
+<h3>Sou estudante de Engenharia de Software apaixonada por tecnologia e inovação. Bem-vindo ao meu perfil do GitHub!</h3>
+<hr>
+
+
 <div >
   <a href="https://github.com/LuizaMunis/convoychat">
   <img height= 200 align= "center" src="https://github-readme-stats.vercel.app/api?username=LuizaMunis&rank_icon=github&count_private=true&show_icons=true&theme=radical"/>
