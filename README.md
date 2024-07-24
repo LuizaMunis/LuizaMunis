@@ -2,7 +2,7 @@
 
 <p> Bem-vindo ao meu perfil do GitHub!</p>
 <p>Sou estudante de Engenharia de Software apaixonada por tecnologia e inovação. Comprometida em escrever código limpo e eficiente. Buscando constantemente aprender e colaborar.</p>
- <img align= "center" alt="gif" height="400" width="800" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif"/>
+ <img align= "center" alt="gif" height="400" width="800" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F4zsqe5yu3p501.gif&rdt=33377"/>
 
 <div style="display: inline_block;"><br>
   <h2>Tecnologias em estudo.</h2> 
