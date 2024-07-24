@@ -2,7 +2,7 @@
 
 <p> Bem-vindo ao meu perfil do GitHub!</p>
 <p>Sou estudante de Engenharia de Software apaixonada por tecnologia e inovação. Comprometida em escrever código limpo e eficiente. Buscando constantemente aprender e colaborar.</p>
- <img align= "center" alt="gif" height="400" width="800" src="https://www.reddit.com/r/PixelArt/comments/7lpc6y/oc_plant_keeper/#lightbox"/>
+ <img align= "center" alt="gif" height="400" width="800" src="https://br.pinterest.com/pin/835065955937963263/"/>
 
 <div style="display: inline_block;"><br>
   <h2>Tecnologias em estudo.</h2> 
