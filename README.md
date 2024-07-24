@@ -2,7 +2,7 @@
 
 <p> Bem-vindo ao meu perfil do GitHub!</p>
 <p>Sou estudante de Engenharia de Software apaixonada por tecnologia e inovação. Comprometida em escrever código limpo e eficiente. Buscando constantemente aprender e colaborar.</p>
- <img align= "center" alt="gif" height="400" width="800" src="https://preview.redd.it/4zsqe5yu3p501.gif?width=1920&format=mp4&s=1e0767092dbe700d951fe57263197485af10172b"/>
+ <img align= "center" alt="gif" height="400" width="800" src="https://i.pinimg.com/originals/13/45/50/13455040862ac9b8e465185878838cf1.gif"/>
 
 <div style="display: inline_block;"><br>
   <h2>Tecnologias em estudo.</h2> 
